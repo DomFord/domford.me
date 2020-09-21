@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "PhD Fellow"
+  company = "Center for Computer Games Research, IT University of Copenhagen"
+  company_url = "https://game.itu.dk/"
+  location = "Copenhagen"
+  date_start = "2019-08-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Teaching Assistant"
+  company = "IT University of Copenhagen"
+  company_url = "https://www.itu.dk/"
+  location = "Copenhagen"
+  date_start = "2019-01-15"
+  date_end = "2019-05-31"
+  description = """Assisting on the 7.5 ECTS MSc Games class Play Design."""
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "IT University of Copenhagen"
+  company_url = "https://www.itu.dk/"
+  location = "Copenhagen"
+  date_start = "2018-08-15"
+  date_end = "2018-12-31"
+  description = """Assisting on the 7.5 ECTS MSc Games class Games and Culture."""
 
 +++
