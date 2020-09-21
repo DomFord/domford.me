@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Gods from the machine: godhood and morality in roleplaying videogames'
+title: 'Gods from the Machine: Godhood and Morality in Roleplaying Videogames'
 subtitle: ''
 summary: ''
 authors:
@@ -41,14 +41,14 @@ abstract: "This dissertation aims to situate moral play under a structure of god
   \ new moral and social frameworks according to the different ontological and cosmological\
   \ fundamentals of the created gameworld. These frameworks, I will argue, are predicated\
   \ on higher diegetic powers that guide and inform the player-as-god. I will examine\
-  \ this topic through four case studies. In textitGrand Theft Auto V, I will illustrate\
+  \ this topic through four case studies. In *Grand Theft Auto V*, I will illustrate\
   \ the player-as-god as part of a player-avatar relationship that involves a pre-characterised\
-  \ avatar, in the form of textitGTA V's playable protagonists. In textitThe Elder\
-  \ Scrolls V: Skyrim, I will analyse a more ‘blank slate’ avatar in the player-avatar\
+  \ avatar, in the form of *GTA V*'s playable protagonists. In *The Elder\
+  \ Scrolls V: Skyrim*, I will analyse a more ‘blank slate’ avatar in the player-avatar\
   \ relationship, and consider how the player-as-god is directed by diegetic gameworld\
-  \ gods and higher powers. In textitDiablo III, I will explore the highly intertextual\
+  \ gods and higher powers. In *Diablo III*, I will explore the highly intertextual\
   \ nature of its moral framework, as it borrows extensively from Judeo-Christian\
-  \ tradition. Finally, in textitDark Souls I will add a moral dimension to Daniel\
+  \ tradition. Finally, in *Dark Souls* I will add a moral dimension to Daniel\
   \ Vella’s notion of the ludic sublime, examine how moral futility is instituted\
   \ in the game’s lore and mechanics."
 publication: ''

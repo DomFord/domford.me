@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: The giant in digital roleplaying games
+title: The Giant in Digital Roleplaying Games
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +32,7 @@ publication_types:
 - 7
 abstract: 'Too monstrous to be truly accepted, too human to be entirely and comfortably
   cast out. The giant has traditionally held a unique position amongst monsters, an
-  \"Intimate Stranger\" (Cohen, 1999, p. xi) who threatens the boundaries of the categories
+  "Intimate Stranger" (Cohen, 1999, p. xi) who threatens the boundaries of the categories
   we impose upon the self, society and culture. In this thesis, I consider what the
   position of the giant is in digital roleplaying games and how digital games provide
   a new and particular arena for the giant. A familiar figure in myth and legend and

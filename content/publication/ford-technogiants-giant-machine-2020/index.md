@@ -50,7 +50,7 @@ abstract: "The relationship between humankind and technology is fundamental, but
   \ ever more intimate and irreversible. In this paper, I connect this age-old anxiety\
   \ with the age-old figure of the giant, a monster similarly intertwined with ancient\
   \ questions on the boundaries of humanity. I focus on two examples: the Human-Reaper\
-  \ larva in Mass Effect 2 and Liberty Prime in Fallout 3 and 4. Although different\
+  \ larva in *Mass Effect 2* and Liberty Prime in *Fallout 3* and *4*. Although different\
   \ in approach, these examples demonstrate a use of a phenomenon I call the `techno-giant'\
   \ to explore and reflect the powerful anxieties in our cultures to do with the future\
   \ of the human– technology relationship. In particular, both examples expose the\

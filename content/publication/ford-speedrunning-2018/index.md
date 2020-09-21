@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Speedrunning: transgressive play in digital space'
+title: 'Speedrunning: Transgressive Play in Digital Space'
 subtitle: ''
 summary: ''
 authors:
@@ -30,10 +30,10 @@ projects: []
 publishDate: '2020-09-21T10:27:36.774855Z'
 publication_types:
 - 0
-abstract: 'In textitHow To Do Things With Videogames, Ian Bogost argues that videogames
+abstract: 'In *How To Do Things With Videogames*, Ian Bogost argues that videogames
   offer “an experience of the ‘space between points’ that had been reduced or eliminated
   by the transportation technologies that began with the train” (2011, 49). But when
-  we watch a speedrun of a game such as textitThe Legend of Zelda: Ocarina of Time
+  we watch a speedrun of a game such as *The Legend of Zelda: Ocarina of Time*
   (Nintendo EAD 1998), what we instead see is a player determined to destroy as much
   of that ‘space between points’ as possible. It is a game that takes most players
   tens of hours to complete, but is finished in just over 17 minutes by the best speedrunners,

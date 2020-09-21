@@ -1,8 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: '\"eXplore, eXpand, eXploit, eXterminate\": affective writing of postcolonial
-  history and education in textitCivilization V'
+title: '"eXplore, eXpand, eXploit, eXterminate": Affective Writing of Postcolonial History and Education in *Civilization V*'
 subtitle: ''
 summary: ''
 authors:
@@ -41,7 +40,7 @@ projects: []
 publishDate: '2020-09-21T10:27:37.176724Z'
 publication_types:
 - 2
-abstract: textitCivilization V as one of the most successful and definitive works
+abstract: *Civilization V* as one of the most successful and definitive works
   of the 4X videogame genre presents a clear narrative of empire-building that, I
   will argue, is problematic when set against postcolonial theory. With many studies
   lauding the series for its educational capacities I argue that with an affective
@@ -52,7 +51,7 @@ abstract: textitCivilization V as one of the most successful and definitive work
   such as Gayatri Chakravorty Spivak and Michel-Rolph Trouillot, and then turn to
   affect theory to consider what role the player takes in writing this history. To
   conclude, I will consider what implications this has on the use of 4X games like
-  Civilization V for education and the conception of history in the minds of the players,
+  *Civilization V* for education and the conception of history in the minds of the players,
   drawing on other recent scholars who have similarly problematized the series.
 publication: '*Game Studies*'
 url_pdf: http://gamestudies.org/1602/articles/ford
