@@ -1,9 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Beyond the wall: the boundaries of the neomedieval town in singleplayer roleplaying
-  games'
-subtitle: ''
+title: 'Beyond the Wall'
+subtitle: 'The Boundaries of the Neomedieval Town in Singleplayer Roleplaying Games'
 summary: ''
 authors:
 - Dom Ford
