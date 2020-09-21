@@ -8,7 +8,7 @@ authors:
 - Dom Ford
 tags:
 - '"affect"'
-- '"Civilisation V"'
+- '"Civilization V"'
 - '"education"'
 - '"empire"'
 - '"history"'
