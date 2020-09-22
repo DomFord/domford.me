@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'eXplore, eXpand, eXploit, eXterminate: Affective Writing of Postcolonial History and Education in Civilization V'
+title: 'eXplore, eXpand, eXploit, eXterminate: Affective Writing of Postcolonial History and Education in Civili11zation V'
 subtitle: ''
 summary: ''
 authors:
