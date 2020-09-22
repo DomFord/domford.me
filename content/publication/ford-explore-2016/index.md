@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'eXplore, eXpand, eXploit, eXterminate: Affective Writing of Postcolonial History and Education in Civili11zation V'
+title: 'eXplore, eXpand, eXploit, eXterminate: Affective Writing of Postcolonial History and Education in Civilization V'
 subtitle: ''
 summary: ''
 authors:
 - Dom Ford
 tags:
 - '"affect"'
-- '"Civ22ilization V"'
+- '"Civilization V"'
 - '"education"'
 - '"empire"'
 - '"history"'
@@ -40,7 +40,7 @@ projects: []
 publishDate: '2020-09-21T10:27:37.176724Z'
 publication_types:
 - 2
-abstract: *Civil33ization V* as one of the most successful and definitive works
+abstract: Civilization V as one of the most successful and definitive works
   of the 4X videogame genre presents a clear narrative of empire-building that, I
   will argue, is problematic when set against postcolonial theory. With many studies
   lauding the series for its educational capacities I argue that with an affective
