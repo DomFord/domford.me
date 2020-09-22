@@ -53,6 +53,6 @@ abstract: Civilization V as one of the most successful and definitive works
   conclude, I will consider what implications this has on the use of 4X games like
   *Civilization V* for education and the conception of history in the minds of the players,
   drawing on other recent scholars who have similarly problematized the series.
-publication: '*Game Studies*'
+publication: 'Game Studies'
 url_pdf: http://gamestudies.org/1602/articles/ford
 ---

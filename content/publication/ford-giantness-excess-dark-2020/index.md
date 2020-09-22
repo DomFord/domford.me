@@ -45,8 +45,7 @@ abstract: Using the Dark Souls series as an example, I examine how a frame of `m
   depictions of excess within the games. I find that elements such as the camera and
   the game's interface, along with the player-character are all affected by giantness,
   with giants seeming to exist in excess of the games' established frames.
-publication: "*Proceedings of the International Conference on the Foundations of Digital\
-  \ Games (FDG '20)*"
+publication: "Proceedings of the International Conference on the Foundations of Digital Games (FDG '20)"
 doi: 10.1145/3402942.3402966
 ---
 

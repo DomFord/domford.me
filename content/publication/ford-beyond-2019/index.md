@@ -40,7 +40,7 @@ abstract: The cities of the ever prevalent neomedieval fantasy roleplaying game 
   this, I hope to facilitate a better understanding of how the city functions in roleplaying
   games, and how the ways in which it produces boundaries alters and affects how players
   interact with the gameworld.
-publication: '*Proceedings of the 2019 DiGRA International Conference: Game, Play
-  and the Emerging Ludo-Mix*'
+publication: 'Proceedings of the 2019 DiGRA International Conference: Game, Play
+  and the Emerging Ludo-Mix'
 url_pdf: http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2019_paper_97.pdf
 ---

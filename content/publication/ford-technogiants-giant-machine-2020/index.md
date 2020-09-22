@@ -57,5 +57,5 @@ abstract: "The relationship between humankind and technology is fundamental, but
   \ human– nonhuman boundary as being exceeding difficult to define and place, despite\
   \ a constant desire to. The figure of the giant offers a powerful focal point for\
   \ these representations."
-publication: '*Proceedings of the 2020 DiGRA International Conference: Play Everywhere*'
+publication: 'Proceedings of the 2020 DiGRA International Conference: Play Everywhere'
 ---
