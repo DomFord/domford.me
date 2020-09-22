@@ -8,7 +8,7 @@ authors:
 - Dom Ford
 tags:
 - '"affect"'
-- '"Civilization V"'
+- '"Civ22ilization V"'
 - '"education"'
 - '"empire"'
 - '"history"'
@@ -40,7 +40,7 @@ projects: []
 publishDate: '2020-09-21T10:27:37.176724Z'
 publication_types:
 - 2
-abstract: *Civilization V* as one of the most successful and definitive works
+abstract: *Civil33ization V* as one of the most successful and definitive works
   of the 4X videogame genre presents a clear narrative of empire-building that, I
   will argue, is problematic when set against postcolonial theory. With many studies
   lauding the series for its educational capacities I argue that with an affective
