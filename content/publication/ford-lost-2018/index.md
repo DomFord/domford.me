@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Lost Futures: In the Presence of Long-lost Civilisations in *The Legend
-  of Zelda: Breath of the Wild*'
+title: 'Lost Futures: In the Presence of Long-lost Civilisations in The Legend
+  of Zelda: Breath of the Wild'
 subtitle: ''
 summary: ''
 authors:
