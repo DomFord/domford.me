@@ -51,5 +51,5 @@ doi: 10.1145/3402942.3402966
 ---
 
 ```
-{{< video library="true" src="Ford, Dom - Giantness and Excess in Dark Souls_FDG20 presentation.mp4" controls="yes" >}}
+{{< youtube FDuUpTmvxG8 >}}
 ```
