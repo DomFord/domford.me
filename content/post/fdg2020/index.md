@@ -27,3 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+It's quite painful now to look back on my post from February, excitedly (and, in retrospect, naively) talking about the amazing conferences and related travelling I'd be doing this summer. All three of those opportunities were thwarted in some way by COVID-19. DiGRA was cancelled, with only the proceedings going ahead (you can find my paper <<here>>), while FDG and History of Games were taken virtual. It was saddening to be attending FDG this year, knowing that, if not for COVID, I'd have been in Malta at the moment, rather than in my living room.
+
+But, COVID-wise, I can't be too sad. Being able to keep a stable job which I am able to do from home, and therefore a consistent income, the vast majority had it worse. Still, allow me my mild frustration.
+
+Nonetheless, the FDG organisers did their level best to make a virtual conference work, and I think most attendees really appreciated that.
