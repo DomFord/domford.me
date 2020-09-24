@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Fdg2020"
+title: "Thoughts on FDG20"
 subtitle: ""
 summary: ""
-authors: []
+authors: [Dom Ford]
 tags: []
 categories: []
 date: 2020-09-24T14:25:19+02:00
 lastmod: 2020-09-24T14:25:19+02:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
