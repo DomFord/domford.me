@@ -28,9 +28,9 @@ image:
 projects: []
 ---
 
-It's quite painful now to look back on my [post]({{< ref "/post/conference-season/index.md" >}}) from February, excitedly (and, in retrospect, naively) talking about the amazing conferences and related travelling I'd be doing this summer. All three of those opportunities were thwarted in some way by COVID-19. DiGRA was cancelled, with only the proceedings going ahead (you can find my paper [here]({{< ref "/publication/ford-technogiants-giant-machine-2020/index.md" >}})), while FDG and History of Games were taken online. It was saddening to be attending FDG this year knowing that, if not for COVID, I'd have been in Malta at that moment, rather than in my living room.
+It's quite painful now to look back on my [post]({{< ref "/post/conference-season/index.md" >}}) from February, excitedly (and, in retrospect, naively) talking about the amazing conferences and related travelling I'd be doing this summer. All three of those opportunities were thwarted in some way by COVID-19. DiGRA was cancelled, with only the proceedings going ahead (you can find my paper [here]({{< ref "/publication/ford-technogiants-giant-machine-2020/index.md" >}})), while FDG and History of Games were taken online. It was saddening to attend FDG this year knowing that, if not for COVID, I'd have been in Malta at that moment, rather than in my living room.
 
-But, COVID-wise, I can't be too sad. Being able to keep a stable job which I am able to do from home, and therefore a consistent income, I of course realise that the vast majority had it worse. Still, allow me my mild frustration.
+But, COVID-wise, I can't be too sad. Being able to keep a stable job which I am able to do from home, and therefore a consistent income, I of course realise that the vast majority had and have it worse. Still, allow me my mild frustration.
 
 Nonetheless, the FDG organisers did their level best to make a virtual conference work, and I think most attendees really appreciated the work they did and the solutions they came up with.
 
