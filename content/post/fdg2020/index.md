@@ -3,14 +3,14 @@
 
 title: "Thoughts on FDG20"
 subtitle: ""
-summary: ""
+summary: "My feedback, thoughts and reflections on FDG 2020"
 authors: [Dom Ford]
 tags: []
 categories: []
 date: 2020-09-24T14:25:19+02:00
 lastmod: 2020-09-24T14:25:19+02:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-It's quite painful now to look back on my [post]({{< ref "/post/conference-season/index.md" >}}) from February, excitedly (and, in retrospect, naively) talking about the amazing conferences and related travelling I'd be doing this summer. All three of those opportunities were thwarted in some way by COVID-19. DiGRA was cancelled, with only the proceedings going ahead (you can find my paper [here]({{< ref "/publication/ford-technogiants-giant-machine-2020/index.md" >}})), while FDG and History of Games were taken online. It was saddening to be attending FDG this year, knowing that, if not for COVID, I'd have been in Malta at that moment, rather than in my living room.
+It's quite painful now to look back on my [post]({{< ref "/post/conference-season/index.md" >}}) from February, excitedly (and, in retrospect, naively) talking about the amazing conferences and related travelling I'd be doing this summer. All three of those opportunities were thwarted in some way by COVID-19. DiGRA was cancelled, with only the proceedings going ahead (you can find my paper [here]({{< ref "/publication/ford-technogiants-giant-machine-2020/index.md" >}})), while FDG and History of Games were taken online. It was saddening to be attending FDG this year knowing that, if not for COVID, I'd have been in Malta at that moment, rather than in my living room.
 
 But, COVID-wise, I can't be too sad. Being able to keep a stable job which I am able to do from home, and therefore a consistent income, I of course realise that the vast majority had it worse. Still, allow me my mild frustration.
 
@@ -56,9 +56,20 @@ I think that *this* style of prerecorded talk--barebones: voiceover over slides-
 
 I do think that prerecorded talks can be done in a way that is as engaging, if not more, than live online talks. The key is to make use of the medium. To toot my own horn here, my prerecorded talk was received well (from the feedback I've gotten so far--if you disagree, I'd love to hear constructive criticism!). I edited in gameplay footage, text, quotes and images to illustrate my points, and made the video and sound quality as good as I could with my skills, environment and budget.
 
-But behind that was a much greater time commitment and a much steeper learning curve. I drew on the methods I'd been using for teaching my first class, for which myself and the course manager have been dabbling with this kind of edited prerecorded videoessay, so I had a lot of the experience and learning banked already. All-in, this 8-minute video took most of a Saturday to complete: a couple of hours to write the script, about an hour to set up and record (using my phone on a small tripod as the camera and a RØDE NT-USB microphone), and then another maybe four to six hours to edit (using Adobe Premiere and After Effects, freely via my university). Of course, I was fortunate to have this time to spare; many colleagues do not. That said, once you have the process down, it gets much quicker, and for me the payoff is big.
+But behind that was a much greater time commitment and a much steeper learning curve. I drew on the methods I'd been using for teaching my first class, for which myself and the course manager have been dabbling with this kind of edited prerecorded videoessay, so I had a lot of the experience and learning banked already. All-in, this 8-minute video took most of a Saturday to complete: a couple of hours to write the script, about an hour to set up and record (using my phone on a small tripod as the camera and a RØDE NT-USB microphone), and then another maybe four to six hours to edit (using Adobe Premiere and After Effects, free via my university). Of course, I was fortunate to have this time to spare; many colleagues do not. That said, once you have the process down, it gets much quicker, and for me the payoff is big.
 
-One thing I would urge *all* colleagues to do, regardless of whether your talk is live or prerecorded, is to **buy a decent mic**. One of the *most* grating things about using Zoom for long periods of time is listening to people using built-in mics, AirPods or cheap headsets. This sounds snobby perhaps, but I really think it's important. For around 100 euros, you can get a very nice mic that everyone who listens to you online will be grateful for.
+One thing I would urge *all* colleagues to do, regardless of whether your talk is live or prerecorded, is to **buy a decent mic**. One of the *most* grating things about using Zoom for long periods of time is listening to people using built-in mics, AirPods or cheap headsets. This sounds snobby perhaps, but I really think it's important. For around 100 euros, you can get a very nice mic that everyone who listens to you online will be grateful for. For, say, 20 to 50 euros, you can get a headset that is still a world better than a built-in mic.
 
 I obviously do not take issue with people who cannot afford that--it does not need to be 100% of participants to make for a much nicer overall experience. But particularly if you're a more senior scholar with a decent salary, a personal research/teaching budget, or both, I don't think there's much excuse to be using a built-in laptop mic. It may also be possible to borrow one from your university (assuming you're affiliated with one). They are not difficult to set up and use, either. My mic (and many of them these days) is simple USB, plug-and-play.
 
+## Conference socialising and networking
+
+Unfortunately, this aspect of conferences seems the most difficult to replace. Perhaps impossible. The coffee breaks, lunches with new people, walking to panels, organised social events, spontaneous bar visits, etc., etc.
+
+FDG attempted to fill this gap with Discord as a hub for panel discussion, general chitchat, game sessions, virtual RPGs, and so on. They also tried a casual talk-/panel-show stream, [FDG-TV](https://www.youtube.com/watch?v=9AGlMHZk-wY). From what I've seen of these shows, it was brilliantly done, nicely produced, and well-hosted. My issue was that after a day of watching Zoom talks, I didn't particularly fancy winding down by watching another couple of hours on YouTube. This doesn't seem like a solvable problem--after all, it is a virtual conference--and I may well be in the minority. It definitely made the conference feel more alive, even if I didn't participate all that much, so that's to be commended.
+
+While I may be proven wrong, this for me is the central reason for why in-person conferences are indispensable. Virtual panels, tracks and events absolutely have their place--and I hope in this period we can continue to experiment with the best ways to do these things--but they cannot supplant the value of face-to-face interaction, socialising and networking.
+
+We probably knew that already, to be fair, but conferences like FDG show that online conferences can have many benefits, and can be done well. The much-reduced price and no need to travel, for instance, is a benefit that should be preserved as much as possible via online tracks, for instance, to help with including scholars with little or no institutional support, less wealth and resources, from countries that are further away from most conferences, and/or with other commitments like childcare that make the usual conference scene less accessible.
+
+As we hopefully emerge from the pandemic, I would hope to see conferences not just go back to 'normal', but to take these lessons forward, experimenting with added online features and hybrid formats.
