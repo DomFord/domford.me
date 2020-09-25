@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [Dom Ford]
 tags: [myth, BBC, journalism, objectivity, politics]
-categories: [myth, politics]
+categories: [Myth, Politics]
 date: 2020-05-22T21:58:54+02:00
 lastmod: 2020-05-22T21:58:54+02:00
 featured: false

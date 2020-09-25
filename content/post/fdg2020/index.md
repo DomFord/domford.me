@@ -5,8 +5,8 @@ title: "Thoughts on FDG20"
 subtitle: ""
 summary: "My feedback, thoughts and reflections on FDG 2020"
 authors: [Dom Ford]
-tags: []
-categories: []
+tags: [conferences, FDG, game studies, networking]
+categories: [Conferences]
 date: 2020-09-24T14:25:19+02:00
 lastmod: 2020-09-24T14:25:19+02:00
 featured: false

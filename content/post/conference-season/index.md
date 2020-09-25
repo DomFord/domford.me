@@ -6,7 +6,7 @@ subtitle: "DiGRA 2020 and History of Games 2020"
 summary: "A brief run-down of my summer conferences."
 authors: [Dom Ford]
 tags: [conferences]
-categories: [conferences]
+categories: [Conferences]
 date: 2020-03-02T10:11:22+01:00
 lastmod: 2020-03-02T10:11:22+01:00
 featured: false
