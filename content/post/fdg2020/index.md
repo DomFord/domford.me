@@ -58,6 +58,8 @@ I do think that prerecorded talks can be done in a way that is as engaging, if n
 
 {{< youtube FDuUpTmvxG8 >}}
 
+
+
 But behind that was a much greater time commitment and a much steeper learning curve. I drew on the methods I'd been using for teaching my first class, for which myself and the course manager have been dabbling with this kind of edited prerecorded videoessay, so I had a lot of the experience and learning banked already. All-in, this 8-minute video took most of a Saturday to complete: a couple of hours to write the script, about an hour to set up and record (using my phone on a small tripod as the camera and a RØDE NT-USB microphone), and then another maybe four to six hours to edit (using Adobe Premiere and After Effects, free via my university). Of course, I was fortunate to have this time to spare; many colleagues do not. That said, once you have the process down, it gets much quicker, and for me the payoff is big.
 
 One thing I would urge *all* colleagues to do, regardless of whether your talk is live or prerecorded, is to **buy a decent mic**. One of the *most* grating things about using Zoom for long periods of time is listening to people using built-in mics, AirPods or cheap headsets. This sounds snobby perhaps, but I really think it's important. For around 100 euros, you can get a very nice mic that everyone who listens to you online will be grateful for. For, say, 20 to 50 euros, you can get a headset that is still a world better than a built-in mic.
