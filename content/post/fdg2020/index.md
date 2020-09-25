@@ -34,7 +34,7 @@ But, COVID-wise, I can't be too sad. Being able to keep a stable job which I am 
 
 Nonetheless, the FDG organisers did their level best to make a virtual conference work, and I think most attendees really appreciated the work they did and the solutions they came up with.
 
-So in this post, I want to briefly reflect on FDG20. So this is part feedback, part idle speculation, part self-reflection on my own experience. Of course, take these notes with my perspective in mind: I'm a junior scholar, just over a year into my PhD, working within the humanities, and having only attended two meatspace conferences.
+So in this post, I want to briefly reflect on FDG20. So this is part feedback, part idle speculation, part self-reflection on my own experience. Of course, take these notes with my perspective in mind: I'm a junior scholar, just over a year into my PhD, working within the humanities, and having only attended three meatspace conferences.
 
 You can find the short paper and accompanying prerecorded video presentation I gave [here]({{< ref "/publication/ford-giantness-excess-dark-2020" >}}).
 
