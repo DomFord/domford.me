@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'That Old School Feeling: Processes of Mythmaking in emphOld School RuneScape'
+title: 'That Old School Feeling: Processes of Mythmaking in Old School RuneScape'
 subtitle: ''
 summary: ''
 authors:
@@ -38,13 +38,13 @@ projects: []
 publishDate: '2020-11-03T15:44:05.675126Z'
 publication_types:
 - 0
-abstract: What is 'old school' about emphOld School RuneScape? In this presentation,
-  I discuss the history of the MMORPG emphRuneScape and the steps that led to Jagex
-  in 2013 releasing a version of the game from 2007, titled emphOld School RuneScape,
-  alongside their flagship iteration of the MMO, emphRuneScape 3. Through a lens of
-  myth, I argue that a communal process of mythmaking is at the heart of emphOld School
+abstract: What is 'old school' about Old School RuneScape? In this presentation,
+  I discuss the history of the MMORPG RuneScape and the steps that led to Jagex
+  in 2013 releasing a version of the game from 2007, titled Old School RuneScape,
+  alongside their flagship iteration of the MMO, RuneScape 3. Through a lens of
+  myth, I argue that a communal process of mythmaking is at the heart of Old School
   as players debate with each other and with the developers over the correct way to
-  retrive the nostalgic object and lost time of emphRuneScape circa 2007.
+  retrive the nostalgic object and lost time of RuneScape circa 2007.
 publication: ''
 ---
 
