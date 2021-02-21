@@ -6,8 +6,8 @@ summary: On its 35th anniversary, I dig into why The Legend of Zelda series has
   been so enduring and so consistently loved.
 draft: false
 featured: true
-authors: []
-tags: []
+authors: [admin]
+tags: [myth, The Legend of Zelda, familiarity, strangeness, game design, narrative]
 categories:
   - Myth
 image:
@@ -20,11 +20,11 @@ image:
 ---
 [I was recently interviewed by DR](https://www.dr.dk/nyheder/kultur/gaming/en-af-de-bedste-nogensinde-derfor-er-legendarisk-spilserie-stadig-et), the Danish public broadcaster, about the what makes the The Legend of Zelda series so enduring and popular for the occasion of its 35th anniversary. On this day in 1986, *The Legend of Zelda* on the Famicom. With [a score of 97 on Metacritic](https://www.metacritic.com/game/switch/the-legend-of-zelda-breath-of-the-wild), *Breath of the Wild*, released 32 years later, doesn't suggest that the series that has grown long in the tooth.
 
-I was asked to explain what was so special about The Legend of Zelda that it could survive and thrive for so long. From an academic perspective, I avoid making value statements--that's the job of reviewers and opinion piece writers. The series is clearly successful, and also happen to like it a lot. But the more interesting question to me was in what makes a videogame series longlasting. And, more than that, what makes it also so consistently loved. Plenty of other series have a long list of titles--Call of Duty or Assassin's Creed, for instance--but few seem so consistently acclaimed: the vast majority of Zelda games have [a Metacritic score in the 90s](https://www.metacritic.com/pictures/legend-of-zelda-games-ranked-worst-to-best), and ususally in the mid-to-high 90s. (I'm aware of [the many problems with using Metacritic](https://kotaku.com/metacritic-matters-how-review-scores-hurt-video-games-472462218), but it does, at least, offer a way to see at a glance when a game is near-univerally acclaimed, especially ones which have been out for a while.)
+I was asked to explain what was so special about The Legend of Zelda that it could survive and thrive for so long. From an academic perspective, I avoid making value statements—that's the job of reviewers and opinion piece writers. The series is clearly successful, and also happen to like it a lot. But the more interesting question to me was in what makes a videogame series long-lasting. And, more than that, what makes it also so consistently loved. Plenty of other series have a long list of titles—Call of Duty or Assassin's Creed, for instance—but few seem so consistently acclaimed: the vast majority of Zelda games have [a Metacritic score in the 90s](https://www.metacritic.com/pictures/legend-of-zelda-games-ranked-worst-to-best), and usually in the mid-to-high 90s. (I'm aware of [the many problems with using Metacritic](https://kotaku.com/metacritic-matters-how-review-scores-hurt-video-games-472462218), but it does, at least, offer a way to see at a glance when a game is near-universally acclaimed, especially ones which have been out for a while.)
 
 I thought a lot about the question both in the relatively short period before the phone call but also in the days after. I wanted to write this as a way to just get out there all the stuff I wish I'd said at the time, or that I've thought more about since.
 
-There are two elements I want to highlight. And here I'm taking as given the fact that these are just solidly designed games made by now-seasoned veterens with plenty of resources from Nintendo.
+There are two elements I want to highlight. And here I'm taking as given the fact that these are just solidly designed games made by now-seasoned veterans with plenty of resources from Nintendo.
 
 # Familiarity and strangeness
 
@@ -34,7 +34,7 @@ I said in the interview that one reason for The Legend of Zelda's success is tha
 
 It feels in many ways akin to Shigeru Miyamoto's inspiration for the series: exploring the countryside as a kid in rural Japan. Close enough to home to be ultimately safe and in familiar territory, but far enough from home that it feels like an adventure.
 
-That's a balance that many other long-running series fail to strike. Call of Duty and Assassin's Creed, to return to those examples, are both series that have suffered at one point or another from too much familiarity. Probably not coincidentally, this issue mostly came to the fore when they are annualised. New titles began to feel like last year's game with a slightly different set of missions. Clearly, these are still enormously successful series--I don't think Activision executives regret their decisions--but each title isn't *loved* in the same way as Zelda titles. There's a near consensus that Call of Duty began to get very dull and samey after *Modern Warfare 2*, and Assassin's Creed from *III* onwards (often with the exception of *Black Flag*) until it stopped annualisation and shifted to its new open world paradigm with *Origins*. 
+That's a balance that many other long-running series fail to strike. Call of Duty and Assassin's Creed, to return to those examples, are both series that have suffered at one point or another from too much familiarity. Probably not coincidentally, this issue mostly came to the fore when they are annualised. New titles began to feel like last year's game with a slightly different set of missions. Clearly, these are still enormously successful series—I don't think Activision executives regret their decisions—but each title isn't *loved* in the same way as Zelda titles. There's a near consensus that Call of Duty began to get very dull and samey after *Modern Warfare 2*, and Assassin's Creed from *III* onwards (often with the exception of *Black Flag*) until it stopped annualisation and shifted to its new open world paradigm with *Origins*. 
 
 With Zelda, each game is something new and unexpected, and yet retains a familiar essence.
 
@@ -46,9 +46,9 @@ With notable exceptions, each game revolves around three characters, each repres
 
 ![A text box in Twilight Princess says "Our world is one of balance... Just as there is light to drive away darkness, so, too, is there benevolence to banish evil."](2019-07-08-2-.png)
 
-The focus in worldbuilding is not on individual characters, but on symbols. So each Link, Zelda and Ganon are actually reincarnations of the 'essence' of Link, Zelda and Ganon. What this allows is a very mythic sort of worldbuilding, one in which continuity and singular narrative coherance is not necessary (just look at [the mess that is the 'canonical' Zelda universe timeline](https://zelda.gamepedia.com/Zelda_Timeline)). Instead, we get retellings of the same fundamental *relations* of events.
+The focus in worldbuilding is not on individual characters, but on symbols. So each Link, Zelda and Ganon are actually reincarnations of the 'essence' of Link, Zelda and Ganon. What this allows is a very mythic sort of worldbuilding, one in which continuity and singular narrative coherence is not necessary (just look at [the mess that is the 'canonical' Zelda universe timeline](https://zelda.gamepedia.com/Zelda_Timeline)). Instead, we get retellings of the same fundamental *relations* of events.
 
-Link can be a warrior of old held in cryogenic sleep for a century, or an unassuming young boy without a fairy. He can be a cheeky youngster living on a tiny island with his grandmother and siser, or a knight-in-training in a city above the clouds. And who knows who Link will be in the future. Perhaps he won't always be a 'he', in a similar way that people questioned whether the Doctor in *Doctor Who* had to be male, or in conversations about a female James Bond.
+Link can be a warrior of old held in cryogenic sleep for a century, or an unassuming young boy without a fairy. He can be a cheeky youngster living on a tiny island with his grandmother and sister, or a knight-in-training in a city above the clouds. And who knows who Link will be in the future. Perhaps he won't always be a 'he', in a similar way that people questioned whether the Doctor in *Doctor Who* had to be male, or in conversations about a female James Bond.
 
 ![](2019-08-26-1-.png)
 
@@ -58,7 +58,7 @@ This fundamental mythic structure and the narrative cycles it produces allows en
 
 Often these symbols are occupied by familiar, recurring figures: Link, Zelda and Ganon. But this isn't always the case. In *Majora's Mask*, there is no Zelda nor Ganon nor Hyrule, instead it is the kingdom of Termina that is imperilled by the evil and powerful spirit Majora, who inhabits a mask which is used to possess Skull Kid. *Skyward Sword* is an origin story, with Link and Zelda present, but Ganon replaced by the primordial evil Demise, and Hyrule by Skyloft.
 
-What this also allows is for the series to seamlessly connect the symbols at its core with compatible ones from wider culture. I spoke in the interview about the climate change allegory in *Breath of the Wild*, for example. Calamity Ganon's excess of Power is rendered as widespread pollution, suffocating Hyrule's ecology. Defeating Ganon and balancing the Triforce is represented through a now verdant, peaceful Hyurle.
+What this also allows is for the series to seamlessly connect the symbols at its core with compatible ones from wider culture. I spoke in the interview about the climate change allegory in *Breath of the Wild*, for example. Calamity Ganon's excess of Power is rendered as widespread pollution, suffocating Hyrule's ecology. Defeating Ganon and balancing the Triforce is represented through a now verdant, peaceful Hyrule.
 
 These are also then symbols which can manifest in different forms of gameplay, whether classic 3D adventure, top-down dungeon-crawler, old school sidescroller, or plenty of others in spin-off titles like *Hyrule Warriors: Age of Calamity* or *Link's Crossbow Training*.
 
