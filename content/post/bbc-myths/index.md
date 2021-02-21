@@ -4,7 +4,7 @@
 title: "The BBC, 'Objective Journalism' and Myth"
 subtitle: ""
 summary: ""
-authors: [Dom Ford]
+authors: [admin]
 tags: [myth, BBC, journalism, objectivity, politics]
 categories: [Myth, Politics]
 date: 2020-05-22T21:58:54+02:00
