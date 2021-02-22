@@ -8,7 +8,6 @@ draft: false
 featured: true
 authors: []
 tags: [myth, The Legend of Zelda, familiarity, strangeness, game design, narrative]
-=======
 authors:
   - admin
 tags:
