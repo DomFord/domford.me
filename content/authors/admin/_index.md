@@ -10,7 +10,7 @@ role: PhD Fellow
 bio: I'm particularly interested in myth, monsters, spatiality and the
   representation and depiction of history and the past (both real and fictional
   histories) in digital games.
-interests:
+## interests:
   - Games
   - Play
   - Myth
@@ -34,9 +34,6 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Dom_Ford
-  - icon: academia
-    icon_pack: ai
-    link: https://itu.academia.edu/DomFord
 education:
   courses:
     - course: PhD in Game Studies
@@ -54,6 +51,8 @@ education:
 email: dominic.ford@live.com
 user_groups: []
 ---
-I'm a PhD Fellow at the IT University of Copenhagen studying myth and cultural meaning in digital games. I also hold a BA and an MA in English from the University of Exeter, focusing largely on digital games and late medieval Arthurian romance, and I bring that literary and cultural analysis to digital games. In 2019, I completed an MSc in Games at the IT University of Copenhagen.
+I'm a PhD student at the IT University of Copenhagen. My thesis is on using myth as a framework for understanding how games produce meaning through, within and about culture.
 
-I'm particularly interested in myth, monsters, spatiality and the representation and depiction of history and the past (both real and fictional histories) in digital games.
+This is my website where you'll find links to all the other relevant internet places you can find me at, all of my publications, and the occasional blog post whenever I feel like writing something there.
+
+All of my publications here have a link or download where you can read it for free. If that is ever not the case, please contact me and I will happily send you a copy directly and make one available online.
