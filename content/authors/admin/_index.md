@@ -10,7 +10,7 @@ role: PhD Fellow
 bio: I'm particularly interested in myth, monsters, spatiality and the
   representation and depiction of history and the past (both real and fictional
   histories) in digital games.
-## interests:
+interests:
   - Games
   - Play
   - Myth
