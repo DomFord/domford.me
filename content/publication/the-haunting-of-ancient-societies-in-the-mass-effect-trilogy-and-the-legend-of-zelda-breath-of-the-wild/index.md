@@ -1,6 +1,6 @@
 ---
-title: "The Haunting of Ancient Societies in the Mass Effect Trilogy and _The
-  Legend of Zelda: Breath of the Wild_"
+title: "The Haunting of Ancient Societies in the Mass Effect Trilogy and The
+  Legend of Zelda: Breath of the Wild"
 publication_types:
   - "2"
 authors:
