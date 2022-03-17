@@ -1,6 +1,6 @@
 ---
-title: "The Haunting of Ancient Societies in the Mass Effect Trilogy and The
-  Legend of Zelda: Breath of the Wild"
+title: "The Haunting of Ancient Societies in the Mass Effect Trilogy and _The
+  Legend of Zelda: Breath of the Wild_"
 publication_types:
   - "2"
 authors:
@@ -24,16 +24,16 @@ abstract: "I examine the prevalent construction of the long-lost yet
 draft: false
 featured: true
 tags:
-  - '"nostalgia"'
-  - '"absence"'
-  - '"presence"'
-  - '"lost futures"'
-  - '"hauntology"'
-  - '"history"'
-  - '"space"'
-  - '"digital materiality"'
-  - '"The Legend of Zelda: Breath of the Wild"'
-  - '"Mass Effect"'
+  - 'nostalgia'
+  - 'absence'
+  - 'presence'
+  - 'lost futures'
+  - 'hauntology'
+  - 'history'
+  - 'space'
+  - 'digital materiality'
+  - 'The Legend of Zelda: Breath of the Wild'
+  - 'Mass Effect'
 categories: []
 image:
   filename: http://gamestudies.org/articleimages/305_Figure_1_full_resolution.jpg
@@ -43,4 +43,5 @@ summary: "I examine the prevalent construction of the long-lost yet
   technologically more highly-advanced society in the Mass Effect trilogy and
   The Legend of Zelda: Breath of the Wild."
 date: 2022-03-17T10:15:05.905Z
+url_pdf: http://gamestudies.org/2104/articles/dom_ford
 ---
