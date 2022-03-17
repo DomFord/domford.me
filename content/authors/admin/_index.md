@@ -7,9 +7,8 @@ authors:
   - admin
 title: Dom Ford
 role: PhD Fellow
-bio: I'm particularly interested in myth, monsters, spatiality and the
-  representation and depiction of history and the past (both real and fictional
-  histories) in digital games.
+bio: Myth, monsters, spatiality and the representation and depiction of history
+  and the past (both real and fictional histories) in digital games.
 interests:
   - Games
   - Play
@@ -36,7 +35,7 @@ social:
     link: https://www.researchgate.net/profile/Dom_Ford
 education:
   courses:
-    - course: PhD in Game Studies
+    - course: PhD
       institution: IT University of Copenhagen
       year: 2022 (expected)
     - course: MSc in Games
