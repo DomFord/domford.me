@@ -58,4 +58,5 @@ abstract: "The relationship between humankind and technology is fundamental, but
   \ a constant desire to. The figure of the giant offers a powerful focal point for\
   \ these representations."
 publication: 'Proceedings of the 2020 DiGRA International Conference: Play Everywhere'
+url_pdf: http://www.digra.org/wp-content/uploads/digital-library/DiGRA_2020_paper_92.pdf
 ---
