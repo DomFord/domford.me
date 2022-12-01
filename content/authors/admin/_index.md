@@ -1,26 +1,26 @@
 ---
 organizations:
-  - name: Center for Computer Games Research, IT University of Copenhagen
+  - name: Center for Digital Play, IT University of Copenhagen
     url: https://game.itu.dk/
 superuser: true
 authors:
   - admin
 title: Dom Ford
-role: PhD Fellow
+role: PhD Student (submitted, awaiting defence)
 bio: Myth, monsters, spatiality and the representation and depiction of history
   and the past (both real and fictional histories) in digital games.
 interests:
-  - Games
+  - Game design
   - Play
   - Myth
+  - Narrative
   - Monsters
   - Spatiality
   - Neomedievalism
-  - Medieval Studies
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:dofo@itu.dk
+    link: mailto:dominic.ford@live.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/DomFord_
@@ -50,8 +50,10 @@ education:
 email: dominic.ford@live.com
 user_groups: []
 ---
-I'm a PhD student at the IT University of Copenhagen. My thesis is on using myth as a framework for understanding how games produce meaning through, within and about culture.
+I'm a game researcher and designer. I've recently submitted my PhD dissertation at the IT University of Copenhagen's Center for Digital Play. My dissertation, titled _Mytholudics: Understanding Games As/Through Myth_, proposes a method for analysing games both as conduits of mythologies within society and as mythological structures in themselves.
 
-This is my website where you'll find links to all the other relevant internet places you can find me at, all of my publications, and the occasional blog post whenever I feel like writing something there.
+This helps us to see how a gameworld constructs its world and the rules by which it operates, and how that world becomes so easy and intuitive for players to inhabit. The same method could be used in the construction of a gameworld, allowing for harmony and resonances between themes and motifs without there having to be a strict or explicit narrative coherence.
+
+This is my website where you'll find links to all the other relevant internet places you can find me at, all of my publications, games and other projects, and the occasional blog post whenever I feel like writing something there.
 
 All of my publications here have a link or download where you can read it for free. If that is ever not the case, please contact me and I will happily send you a copy directly and make one available online.
