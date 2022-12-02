@@ -47,4 +47,4 @@ I contributed with **narrative design**, **worldbuilding** and **design**. I als
 
 Download the game here and the art bible here.
 
-    {{< figure src="harvest-art.png" >}}
+    {{< figure src="harvest-art.png" caption="Pages from the art bible." numbered="false" >}}
