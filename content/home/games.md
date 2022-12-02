@@ -5,6 +5,7 @@ headless: true  # This file represents a page section.
 # ... Put Your Section Options Here (title etc.) ...
 title: Games
 subtitle: ''
+weight: 100
 
 content:
   # Choose which content to display in the widget
