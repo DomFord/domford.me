@@ -49,5 +49,5 @@ design:
   # Choose a listing view
   view: showcase
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: true
+  flip_alt_rows: false
 ---
