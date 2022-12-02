@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Unnatural Selection"
-summary: ""
+summary: "Select the genes for the new generation as you respond to national crises. But every choice has consequences and side effects."
 authors: []
 tags: []
 categories: []
 date: 2022-12-01T13:24:30+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://mattwild.itch.io/unnatural-selection"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
