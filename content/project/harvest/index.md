@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://1drv.ms/b/s!AgoobYV4aSxhi8Bc6kk-LNv379tQ4w?e=qjaEPZ"
 url_slides: ""
 url_video: ""
 
@@ -45,6 +45,6 @@ Explore a mysterious hollow world from the inside as you learn why the world is 
 
 I contributed with **narrative design**, **worldbuilding** and **design**. I also wrote and put together the art bible.
 
-Download the game here and the art bible here.
+Download the game [here](https://1drv.ms/u/s!AgoobYV4aSxhi8BbZUbokovel-gl6w?e=eTSJm9) and the art bible [here](https://1drv.ms/b/s!AgoobYV4aSxhi8Bc6kk-LNv379tQ4w?e=qjaEPZ).
 
     {{< figure src="harvest-art.png" caption="Pages from the art bible." numbered="false" >}}
