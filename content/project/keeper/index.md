@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Keeper"
-summary: ""
+summary: "Bring light to a dark world through exploration and combat."
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Prototype made during the Game Prototyping class at the IT University of Copenhagen.
+
+_Keeper_ features a dark world. Your castle is the only source of light and has a defined radius. Explore, kill enemies and bring back loot to expand your castle's light radius, allowing you to explore more of the world.
+
+Move with WASD, attack with E, jump with SPACE.
+
+Download [here](https://1drv.ms/u/s!AgoobYV4aSxhi8BTNHcVXoxjEMOcTA?e=iMKXKJ).
