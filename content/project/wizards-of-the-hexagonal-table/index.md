@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Wizards of the Hexagonal Table"
-summary: ""
+summary: "An over-the-top card game about balancing your mana. Push it to the limit but be careful not to overcharge."
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Prototype made during the Game Prototyping class at the IT University of Copenhagen.
+
+_Wizards of the Hexagonal Table_ is an over-the-top physical card game played with 2-6 players. Manage your mana and push it to the limit, but be careful not to overcharge.
+
+Rules and cards [here](https://1drv.ms/u/s!AgoobYV4aSxhi8BWa120ar7_UkvKnA?e=EYXloB).

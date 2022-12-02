@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Grappltar"
-summary: ""
+summary: "A one-button game that mixes Spider-Man with the guitar guy in Mad Max."
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Prototype made during the Game Prototyping class at the IT University of Copenhagen.
+
+_Grappltar_ is a one-button musical grappling hook game. Time your grapples with the direction your character is pointing. Shoot and retract your grappltar with SPACE.
+
+Download [here](https://1drv.ms/u/s!AgoobYV4aSxhi8BUJhf1ET0H604A1g?e=fqV1Z3).

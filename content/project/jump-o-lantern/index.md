@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Jump O Lantern"
-summary: ""
+title: "Jump-o-lantern"
+summary: "A Halloween-themed endless musical vertical platformer."
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Prototype made during the Game Prototyping class at the IT University of Copenhagen.
+
+_Jump-o-lantern_ is a Halloween-themed endless vetical platformer that gets more difficult the higher you ascend. The platforms all interact dynamically with the music.
+
+Left with A or LEFTARROW, right with D or RIGHTARROW, jump with SPACE.
+
+Download [here](https://1drv.ms/u/s!AgoobYV4aSxhi8BVHr5h0KFiO3fQUg?e=94pKtc).
