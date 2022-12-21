@@ -70,5 +70,9 @@ related:
       weight: 70
 security:
   _merge: deep
-backend:
-    branch: master
+# Uncomment options below to use them.
+extensions:
+  cms:
+     branch: master
+#     publish_mode: editorial_workflow
+#     local_backend: true
