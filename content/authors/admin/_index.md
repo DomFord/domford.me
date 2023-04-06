@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Literatures and Media of Religions Lab, University of Bremen
+  - name: University of Bremen
     url: https://www.uni-bremen.de/en/religionswissenschaft/profile-research/literatures-and-media-of-religions
 superuser: true
 authors:
