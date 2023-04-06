@@ -52,11 +52,9 @@ education:
 email: dominic.ford@live.com
 user_groups: []
 ---
-I'm a postdoctoral researcher at the University of Bremen, part of the [Literatures and Media of Religion](https://www.uni-bremen.de/en/religionswissenschaft/profile-research/literatures-and-media-of-religions) lab headed by Kerstin Radde-Antweiler. At Bremen, I'm also a member of the [Institute for the Study of Religion and Related Didactics](https://www.uni-bremen.de/en/religionswissenschaft) and the [ZeMKI Centre for Media, Communication and Information Research](https://www.uni-bremen.de/en/zemki/). My postdoc project centres on community formation in digital games. I used a framework of mythmaking expanded from my PhD dissertation.
+I'm a postdoctoral researcher at the University of Bremen, part of the [Literatures and Media of Religion](https://www.uni-bremen.de/en/religionswissenschaft/profile-research/literatures-and-media-of-religions) lab headed by Kerstin Radde-Antweiler. At Bremen, I'm also a member of the [Institute for the Study of Religion and Related Didactics](https://www.uni-bremen.de/en/religionswissenschaft) and the [ZeMKI Centre for Media, Communication and Information Research](https://www.uni-bremen.de/en/zemki/). My postdoc project centres on community formation in digital games using a framework of mythmaking expanded from my PhD dissertation.
 
-I did my PhD at the IT University of Copenhagen's [Center for Digital Play](https://digitalplay.itu.dk/). My dissertation, _[Mytholudics: Understanding Games As/Through Myth](https://domford.net/publication/ford-mytholudics-2022/)_, proposes a method for analysing games both as conduits of mythologies within society and as mythological structures in themselves.
-
-This helps us to see how a gameworld constructs its world and the rules by which it operates, and how that world becomes so easy and intuitive for players to inhabit. The same method could be used in the construction of a gameworld, allowing for harmony and resonances between themes and motifs without there having to be a strict or explicit narrative coherence.
+I wrote my PhD at the IT University of Copenhagen's [Center for Digital Play](https://digitalplay.itu.dk/). My dissertation, _[Mytholudics: Understanding Games As/Through Myth](https://domford.net/publication/ford-mytholudics-2022/)_, proposes a method for analysing games both as conduits of mythologies within society and as mythological structures in themselves.
 
 I'm also the managing editor for the academic journal _[gamevironments](https://journals.suub.uni-bremen.de/index.php/gamevironments/)_ and on the editorial board for _[Eludamos: Journal for Computer Game Culture](https://eludamos.org/index.php/eludamos)_.
 
