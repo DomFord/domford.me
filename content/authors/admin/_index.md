@@ -1,7 +1,7 @@
 ---
 organizations:
   - name: University of Bremen
-    url: https://www.uni-bremen.de/en/religionswissenschaft/profile-research/literatures-and-media-of-religions
+    url: https://www.uni-bremen.de/en/
 superuser: true
 authors:
   - admin
