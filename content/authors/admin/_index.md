@@ -49,7 +49,7 @@ education:
     - course: BA (Hons) in English
       institution: University of Exeter
       year: 2015
-email: domford@uni-bremen.de
+email: dominic.ford@live.com
 user_groups: []
 ---
 I'm a postdoctoral researcher at the University of Bremen, part of the [Literatures and Media of Religion](https://www.uni-bremen.de/en/religionswissenschaft/profile-research/literatures-and-media-of-religions) lab headed by Kerstin Radde-Antweiler. At Bremen, I'm also a member of the [Institute for the Study of Religion and Related Didactics](https://www.uni-bremen.de/en/religionswissenschaft) and the [ZeMKI Centre for Media, Communication and Information Research](https://www.uni-bremen.de/en/zemki/). My postdoc project centres on community formation in digital games. I used a framework of mythmaking expanded from my PhD dissertation.
